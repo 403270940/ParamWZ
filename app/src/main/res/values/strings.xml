@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">型号伪装</string>
+
+    <string name="model_string_alert_about">关于</string>
+    <string name="model_string_alert_tip">提示</string>
+    <string name="model_string_alert_ok">确定</string>
+</resources>
